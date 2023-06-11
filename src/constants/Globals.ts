@@ -8,8 +8,8 @@ interface RouteSettings {
 }
 
 export const DefaultRouteSettings: RouteSettings = {
-  api: 'http://chatroom.antiraid.win/api',
-  cdn: 'http://chatroom.antiraid.win',
+  api: 'https://chatroom.antiraid.win/api',
+  cdn: 'https://chatroom.antiraid.win',
   gateway: 'wss://chatroom.antiraid.win',
 };
 
